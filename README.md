@@ -120,7 +120,6 @@ python prediction.py
 
 **Uditya Narayan Tiwari**
 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
-🌐 [Portfolio](https://udityanarayantiwari.netlify.app/)
 🔗 [LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
 💻 [GitHub](https://github.com/udityamerit)
 
